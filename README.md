@@ -242,4 +242,4 @@ This repository serves as the official landing page for Embarcadero Dev-C++. The
 **Get the most recent version of Embarcadero Dev-C++ today!**
 
 ---
-**Last updated:** 2026-09-21 14:34:15 UTC
+**Last updated:** 2026-09-21 19:46:12 UTC
